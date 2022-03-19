@@ -5,4 +5,4 @@ The day's project was making a guessing game where you try to guess a number and
 
 ## Guess the number game
 
-![guess the number](guess_the_number).gif)
+![guess the number](guess_the_number.gif)
