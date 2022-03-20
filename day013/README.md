@@ -1,6 +1,6 @@
 ## Day 13
 
-Today covered debugging and there was no project today
+Today covered debugging and there was no project.
 Debugging: How to Find and Fix Errors in your Code
 The tips recommended were:
 - Describe the problem
